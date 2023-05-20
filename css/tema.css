@@ -1,0 +1,14 @@
+.claro {
+    background-color: #fff;
+    color: #333;
+}
+
+
+.escuro {
+    background-color: #333;
+    color: #fff;
+}
+
+.escuro #texto {
+    color: #333;
+}
